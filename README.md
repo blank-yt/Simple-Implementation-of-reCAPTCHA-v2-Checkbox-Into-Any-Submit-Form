@@ -6,7 +6,7 @@
 [![Fork this repo](https://badgen.net/github/forks/blank-yt/Simple-Implementation-of-reCAPTCHA-v2-Checkbox-Into-Any-Submit-Form)](https://github.com/blank-yt/Simple-Implementation-of-reCAPTCHA-v2-Checkbox-Into-Any-Submit-Form/fork/)
 [![Releases](https://img.shields.io/github/downloads/blank-yt/Simple-Implementation-of-reCAPTCHA-v2-Checkbox-Into-Any-Submit-Form/total.svg)](https://github.com/blank-yt/Simple-Implementation-of-reCAPTCHA-v2-Checkbox-Into-Any-Submit-Form/archive/refs/tags/Release.zip)
 
-Status: [![Heroku](https://pyheroku-badge.herokuapp.com/?app=recaptcha-v2-blank&style=flat)](https://recaptcha-v2-blank.herokuapp.com/) [`(Test it out here)`](https://recaptcha-v2-blank.herokuapp.com/)
+Status: [![success](https://user-images.githubusercontent.com/100468888/208658036-514215da-7838-44a9-8468-3a37e7e73b13.png)](https://playcs.eu/blank/70b29c4920daf4e51e8175179027e668/v2/) [`(Test it out here)`](https://playcs.eu/blank/70b29c4920daf4e51e8175179027e668/v2/)
 
 ## Getting Started
 - Either click `Code` (green button on the top of the repository) and then [`Download ZIP`](https://github.com/blank-yt/Simple-Implementation-of-reCAPTCHA-v2-Checkbox-Into-Any-Submit-Form/archive/refs/tags/Release.zip)
