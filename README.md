@@ -1,4 +1,6 @@
 # Simple Implementation of reCAPTCHA v2 Checkbox & Invisible v3 Into Any Submit Form
+### For reCAPTCHA v3 click [`here`](https://github.com/blank-yt/Simple-Implementation-of-reCAPTCHA-Invisible-v3-Into-Any-Submit-Form).
+
 > Easy way of implementing reCAPTCHA v2 or v3 by google into any your form using PHP. Possible uses: login form, registration form, contact form, add comment form and many more.
 
 ![License](https://img.shields.io/npm/l/css-star-rating.svg) 
